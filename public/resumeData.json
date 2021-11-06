@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Rhobbi Khaidir",
+    "description": "Front-end Developers",
+    "image": "https://lh3.googleusercontent.com/pw/ACtC-3dWnQ4wFj6lgrUxvrdiZJIIH0UyP4VtuFlsWs-glTSi36NrFiAEl9T_Zp_frYx6nhpda4R0dqGc2f2YG66ej8WgulD3X-fAzTdUlr6cGAZ63ZAnG7dHLoayTUx2fInQ8Hj3JuJZGfv6LbmbY231cfxP=s669-no",
+    "bio": "Front-end Developers",
+    "contactmessage": "Contact Us.",
+    "email": "rhobbie09@gmail.com",
+    "phone": "+62 882 1208 6292",
+    "github": "https://github.com/rhobbikhaidir",
+    "project": "https://web.facebook.com/rhobbikhaidir",
+    "certificate": "https://drive.google.com/file/d/1vlU1iRxh13XWLx6dTL5SSVQfiV0IR_LW/view?usp=sharing",
+    "address": {
+      "street": "Jl. Perjuangan",
+      "city": "Jakarta Utara",
+      "state": "DKI Jakarta",
+      "zip": "14260"
+    },
+    "website": "https://github.com/rhobbikhaidir",
+    "resumedownload": "https://drive.google.com/file/d/1sKBjk41hCX0sbjO10o2azYOWLDwR9J77/view?usp=sharing",
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rhobbikhaidir",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rhobbikhaidir/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rhobbikhaidir",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Coding  Tools",
+    "education": [
+      {
+        "school": "Progate & DTS",
+        "degree": "Mentor Coding Experience Bootcamp",
+        "graduated": "October 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Udemy",
+        "degree": "React js & React Native: The Complete Bootcamp",
+        "graduated": "July 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Dicoding",
+        "degree": "Fundamental Front-End Web Development",
+        "graduated": "June 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Progate",
+        "degree": "Front-End Web Development Javascripts & React js",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Dicoding",
+        "degree": "SOLID Programming Principles",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "DBS Service",
+        "title": "Computer Technician",
+        "years": "January 2018 - March 2019",
+        "description": "Maintenance and repair computer pc or laptop."
+      },
+      {
+        "company": "Progate",
+        "title": "Instructor Coding",
+        "years": "6 months",
+        "description": "Answer question from participants, Review Source code from participants, Help Resolve errors/bugs"
+      },
+      {
+        "company": "TOG",
+        "title": "Front-end Developers",
+        "years": "2 months",
+        "description": "Complete the given task, Slicing, Styling, fixing bugs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML & CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "React js",
+        "level": "90%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "a community website called Reman",
+        "category": "currently still in the production stage",
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3cuVHuL0zESp6QeHACFWWb4l-WT4ERUuou4WNpCAo5B21RV_REDg1bpAGh1HBD56-3czEp17Re_Yjoqgn0PzQGVG0nX1E9miLISVwb91VA0HVTa_hnRHfGiC0k7WqicP78qd_7wuszzl23EuflZtqAh=w1190-h669-no",
+        "url": "https://reman.netlify.app/details"
+      },
+      {
+        "title": "Beautiful Booking App",
+        "category": "A full website develope by UI/UX",
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3dXpVgvgoS4uBpSSjSJi_FvBNJvdzSuo8gWyQIboZZDS_r-RF-jWfLOW8tshviKvw00wuKcZrqIp8VY77GeIYqfUJzCqrnHB5S4Rg8OgqM8lNehZAKFBkeFmwTugma04kYZlbCkq178fyIGuP04-UDA=w1190-h669-no",
+        "url": "https://staycation09.herokuapp.com/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3do1Rx20OMaZvwwmpwQFJjYFT5kOI5dbbK-SzLe1B80_UPdvxWLcM64HoZ1dulpUm7CqbXM6L8PTYl3hfXahDZV4Knaedkrdj8AewKGCAADpg8quZG8_iYlHDsQMcCNIY9r81yiZQ5bjh2QaZygAL5_=w1190-h669-no",
+        "url": "https://github.com/rhobbikhaidir/react-portofolio"
+      },
+      {
+        "title": "Clone DetikNews",
+        "category": "emulate ui/ux webiste Detik.com using react js",
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3fhzpDKWe0eTe9jlKLTJ7vfLlobPgHwSqd4FJHn7veg0tBrivWWi7W7FlCXult3NsPc7UAGYCdYA5pvJ5b3gk4FHqSVA4qeqS73kf6Xy2czjAk3pJFUIPo24rGiRv-iqbWskA-J9lz3nWT2_km6iGUj=w1190-h669-no",
+        "url": "https://xcidic-detik-clone.netlify.app/"
+      },
+      {
+        "title": "Natours Travel Webiste",
+        "category": "a website about travel and natural beauty",
+        "image": "https://lh3.googleusercontent.com/fife/AAWUweVxz-lJ0UVW5zQnfLvBoYM1pBPn934pTEHkDF1iuD90AKud4XpViEvKAyny58Vhy41TVc1BpY3P7FRZfoK2JGEsFAcvXOSuyohUzMWbffOF9j_sofwiBhD1qUiFnRLV2bvShnknKMZFWixeGrh9ZpW9muGO9VsjRMQW0Ol0fFKCRtJtLfBcE1XwbMplqKRqnlcd0B58Z97eaG8An-sOEnMuxLbKH9cTF1uvfOSqGV3qTB8GTrGtYB-OqLXlIMPQ4ja59EY5UQEvrnl4Zh9UcXpWB-BCjfXZZVE169h4uza45dip7SwRwUtdpvlCTHFrRwycom3oBQ1ea174RGw8cP9746s7gzbSnOcJi71ipyV-PG5npKF173YUZx9knsjGcJdZSB5eFFCclOU23fjyri33WpLyWgTb_7PCVamTQFrJhEv05e2U0-SgUlfZipT4VS2waLpptm92MZSaqnH0De4jTL00dS6pctupYkjJAaQQ6LKYKpMT2PnTlgSvD3Y_ZeArhJpalvUKTiap7qexXXaBAY0u60itdR0x4D81RZoVArEL1EWr5n-o4Gvx-nd9OrbZPilEH_J7Kivhg0l2GeBQFEb8_jZd2kZPVOwLINjRjQQ5XN4gprlK34JptezD79E45l5p4fBW7KxRooF6VZFXuE5ATP8t9ROs_g3kye_B0aGwQ_fLX4C6U8ZzsAFuitUJ2UGhm665rUWtLmdAgiTi_M3wrnOzriH0r3gF7BBK9HgYiTzF-Kyp7V-V-Nkxg9aWfwcm3PRZULSoIQZxvwBOnOKssiUYR6YK1Mj_vQMvgwASCtLojtoT0zT7Zv-fahXYETn6H2uQvCTtXvHNm-ZX0su4aaNe-U0PsdULEE_l0LdU_NWf6FLw-mmQY2oFPPpYFlFXHrLw9Aj89j3Q79IpLzjdfGL-PBK4Li1EQb4msTkX-BnEUXSjoKgrDBxA76qx-igXL5W_tRMxJyJx347k6I3za11W-fpp2EUftzLMvEg3sEnQj_3oESRmB5zJpedTNdr9BjJvLx2dQsqDxzZ0YrRHBSebG17yvGr3_k5g2o1s9-xlPoqmMFBtc9ixNJPmMK-DYFCyN_iaVBEB3xjLXbtx11DYt2QFoApn4zCiHlEIqXZjSx_e-h3QdUNIoRIoKJh25uKvEAp1228ems7PjR3pATkhj6dhEdKI8rcvObWntfT2HYduGH8rlWzxrHg4Qd-oSgh_aquSVzk01-fNd7RZBRgZBKb-SkjYQNRCeRhZGHT0jdTW_Azrl911XD09_4uVgshJ6eQbLuHh7BAZPZUtnze6ruc6IUz0G4XF5FLGmdoQXQLyQa_TQe20f0aGJTokFOGDgUBeld1TR8vT5vjogmdvFmXtFbRlNy_M9cxEJqSWqAhplz5ptS4_aVF3aLAFZY47imdoBBWFOpwxF-xlbvlGlzRfT41fq9MnXGjky6qWUQfKiQvnD1H8EUEF6fdn3VNiQu8ntX5E1d5dmi15tlpbRcRqS8n3j-bEPFwhBGqAp_-OMdrzU-mbkz1H2c5TYCJYMpSVC54z9kL121sYEc3qG6tCMwIu5NE2K97QtwXm-V038Pz7X7W5FCcHfcc80UWCRyDYy9QrfsBYG1Hcxvpssni0fj0WvXevyHf-EmNEpSKhhdgcgHpEtgO2MeEqbzz_myDyfcXlKgE4iaZEq_DvoUEY4E_14infMOAOey1IIWXbRNQkIfhevSYNvSbOEceW9miN9uvMnkQtAlPE9WDTCnj1qZ4HPp8gISK8q2oIKv1LwXTX5UEdrYuLtgSEIk7U6pwhkYABF8-dAxcobcBzGl8ZPpiuoVFzXZ8HMigqqENiQiVQCXv6NCk4IZ2_lAE-sYvQDmRj7upkK96Qi56hOpTgFgdFX20Dc2BJJjr3okNgw3BwoOMSfWgk6N1cpQKUSFkElhq76E6JM12GBpILR_8cINGLOyvdAFCbacyrTrYBmPdUrvcCxvS0dpNhPk1NrL9el-kJNE9ZCciemkuCoWBlbtQlsYR6QAExv08t_73xdkKxIAboQFspVbv5JWlRLnH_-pVj726P_MLY4LT3rTNTgdMOI3NE_V9w1mQEDvIx4ncc8GWe-4EUsjbGQxnP6obcbhN83M7sRNJfiu8o1Lwn-WjuBIMovZCpsPZAnY1c9q1dwCEZn-mw6SasfpvPpMUQSjG1GjEjUnhvDlEe9ZKU0haFi-JP-eSeyFgjMBlJt0VN034svNPrgxRix3Yjd8f3u_TBgboPWXq3heIMzBJhXrrPPd_G2Pyp1ZHpM4KSeJ3RsMLTal1FoRw0EoTipgS6OvTPvenRkFitRoMhALYBndt4_ZdiSo3Jut7Y8Dfsv5WjbFT7uRhHEJ7oedPeX-oXlQDJeIe69dqUEJOLXS775XAAqWNthZnHpEds_X5l_PDF3_E3iRx8HxbAQS0d7o_s_eoFFTqwS3O449L5VO8WILQyHTGgwFTBqi5GSQYhiI9Sj_HrCmfhpJHPfPNpNFUwKHJC7YkUdBd6S_U0c1IR3YCQCVd9H5NovFNBejnuZIZWa6OZdO-B1yKH5i1vWhra8QVo9OhceXJNKgNOQ-imDXjvzMK9IoBz0_xcc_WRSYfOXelwNMCrZ9-2f_iePXQdowDyi-JrzkkI-wtTFEPNrrJda_y28idJ6dQ4uiAAGVg-fHeOY6PVmm71IUkK5puSwn0k8ZB0qomci7xmdtVRRpUMR5Cpu26OFhi-rQ6T-Jf3-Xawro3AgbpBbUANMGFgx4SjVgYpm_b_0d005au9bfX8-3W1o8FUUanz54Bey8L_qmakXZzzb9KxNtSVgn8WhbP2DNvxyLOUbMSqacypLp72Sc9xTxHj4zhIOkiHHfRkwmSn4R_gzVj1t8aEyEuzV8ojaIzmkt4kt_AISFc1adfaSPWFX_BWrjPPhcVABqv8Dd7OLdIriRbK-wCQuHJUTqTfnSdh9PalloMQvh-MQCbdKcU2eA2rfhH_tJozdTDn2sIBia9UwnISyJPrndab0zLGZbr-kYHNnqxCzkbuhFx_C_VMM8lgA0cueECPBZvliBRaioTTUthPMQx4YAhj3OJL44W62zSbVIYei75xm6MBzNSgo1n3kQFVlwDm_Kwfu5Fc5C-aeB-9u8vKnt7K7SwSBqueQT9XOjMiail28SbJMIhyrMvWNp6km0mn4-h5V7WfJEyBmHbBVI-GJpVa8IQkKcmdp38fp0627ITcGdUOi6lj4Al8MBVZsLCb6BIvzf9_aMnXHGnTemfZ3IejJ3FnoW_LKmdSJmr37wiLgcO-ivHmFDm7n8ICzENusPcBgoWN_M_V-Qv0uDFWsxoS7bFFU2HH6OVEiwSVTVMaLlXGwbe7O6JKPYEY-Izi5WUohw552rZztlVzekVuldmDl6H66Di285KFRY9KD5cG9-CHzTP-ddEgb7S558AZ4zFUWNbHz6CdTOY7n8AEO6uYTL6K38DZ3fYqO-n415bBmRmhrUK0lDUQc1tQ3dkMX9B7iOK4Qw7p_WF2mqI_bNIw3C4iUnxnnLO1TZnmYZl8ay75itvBbxZ3Ie8eQ-XsDUart0RbMDkzG2gSF5ImLJHKk1wI8qMMkLeM_ss4Vv6oTfa4KZnddtIzLLcyESy_GmKH00tWJSZW9O2hzLd0knKUaMbDFmhDggtuyWa9WmVVn6hcmmee20eseeCQ8Y2Sm2aXgpxgzQRmQerKLNecPQ=s1084-w1084-h609-rw-no",
+        "url": "https://natours09.netlify.app/"
+      }
+    ]
+  }
+}
